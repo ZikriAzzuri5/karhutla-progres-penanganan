@@ -24,7 +24,7 @@ Proyek analisis data ini mengevaluasi kinerja penanganan kebakaran hutan dan lah
 
 ```text
 ├── karhutla_analysis.ipynb          # Notebook analisis utama (data cleaning, metrik, visualisasi)
-├── karhutla-2026_semua-provinsi.csv # Dataset mentah dari BNPB (45 kolom)
+├── karhutla-2026_semua-provinsi_2026-10-16.csv # Dataset mentah dari BNPB (45 kolom)
 ├── karhutla_clean.csv               # Dataset hasil pembersihan (21 kolom inti)
 ├── karhutla_metrik.csv              # Metrik rasio beban, kapasitas personel & armada
 ├── karhutla_kendala.csv             # Ekstraksi kendala & rekomendasi lapangan
