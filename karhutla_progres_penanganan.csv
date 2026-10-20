@@ -1,0 +1,7 @@
+provinsi,lahan_harus_dipadamkan_ha,luas_lahan_ditangani_darat,luas_lahan_ditangani_udara,dipadamkan_ha,sisa_dilaporkan_ha,sisa_ha,pct_tertangani,pct_udara,pct_dari_total_sisa,flag_data
+Kalimantan Tengah,594.87,73.79,0.0,73.79,521.08,521.08,12.4,0.0,76.0,
+Jambi,125.0,28.0,3.5,31.5,93.5,93.5,25.2,11.1,13.6,
+Kalimantan Barat,37.84,21.5,8.0,29.5,8.340000000000003,8.340000000000003,78.0,27.1,1.2,
+Sumatera Selatan,336.29,257.29,23.0,280.29,56.0,56.0,83.3,8.2,8.2,
+Kalimantan Selatan,54.01,43.41,4.0,47.41,614.0,6.600000000000001,87.8,8.4,1.0,sisa dilaporkan tidak cocok; dipakai hasil hitung
+Riau,2.5,2.5,0.0,2.5,0.0,0.0,100.0,0.0,0.0,
